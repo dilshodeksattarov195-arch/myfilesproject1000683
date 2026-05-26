@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersalidate",
+        "uuid": 2516855,
+        "checksum": "070aj6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
